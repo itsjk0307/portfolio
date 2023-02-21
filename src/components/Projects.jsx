@@ -38,8 +38,8 @@ function Projects() {
       webPic: miniBank2,
       type: "Simple online banking app",
       info: "This application allows users to login, transfer funds to other accounts, borrow funds or close the account",
-      link: "https://bankist-app-eosin.vercel.app/",
-      gitLink: "https://github.com/Ilkhomjon2002/bankist-app",
+      link: "https://banking-app-zeta.vercel.app/",
+      gitLink: "https://github.com/itsjk0307/Banking-app",
     },
     {
       name: "Green Shop",
@@ -58,8 +58,8 @@ function Projects() {
       webPic: Trillo2,
       type: "All-in-one-one booking App",
       info: "Sample website for a touring company that demonstrates modern responsive design ",
-      link: "https://trillo-2.vercel.app/",
-      gitLink: "https://github.com/Ilkhomjon2002/trillo-2",
+      link: "https://trillo-omega.vercel.app/",
+      gitLink: "https://github.com/itsjk0307/Trillo",
     },
     {
       name: "Dream Building",
